@@ -24,13 +24,12 @@ An enhanced understanding of organisational need and the digital preservation la
 
 <strong> Here is what the Lambeth Palace Library team had to say about our work: </strong>
 
-<i>
-"The workshops by Digital Preservation Southampton provided Lambeth Palace Library with a timely and welcome opportunity to step back and consider the wider landscape of digital preservation. Open questions allowed us to explore our thinking and reminded us of the many activities which digital preservation encompasses. They also gave us space to re‑evaluate some of the assumptions that had been guiding our approach.
- 
-More importantly, the conversations helped us identify what we could achieve in the short term with the resources we already have. The first workshop prompted us to begin collating our knowledge of digital assets and to review how we might strengthen existing provision. The workshops gave us confidence to move forward: we already knew that the DPC Rapid Assessment Model would be a helpful tool, and working with the team helped us understand how the model maps onto our current maturity, how to interpret its categories, and how to use the findings to plan realistic and meaningful progress.
- 
-Overall, the workshops offered a structured environment in which to take stock of what we had done so far and where we wanted to go next. We have really benefited from working with the very knowledgeable, friendly, and approachable team from the University of Southampton. Their supportive approach and the clarity of the report they produced continue to guide us as we build and strengthen our digital preservation capabilities."
-</i>
+> *The workshops by Digital Preservation Southampton provided Lambeth Palace Library with a timely and welcome opportunity to step back and consider the wider landscape of digital preservation. Open questions allowed us to explore our thinking and reminded us of the many activities which digital preservation encompasses. They also gave us space to re‑evaluate some of the assumptions that had been guiding our approach.*
+>
+> *More importantly, the conversations helped us identify what we could achieve in the short term with the resources we already have. The first workshop prompted us to begin collating our knowledge of digital assets and to review how we might strengthen existing provision. The workshops gave us confidence to move forward: we already knew that the DPC Rapid Assessment Model would be a helpful tool, and working with the team helped us understand how the model maps onto our current maturity, how to interpret its categories, and how to use the findings to plan realistic and meaningful progress.*
+>
+> *Overall, the workshops offered a structured environment in which to take stock of what we had done so far and where we wanted to go next. We have really benefited from working with the very knowledgeable, friendly, and approachable team from the University of Southampton. Their supportive approach and the clarity of the report they produced continue to guide us as we build and strengthen our digital preservation capabilities.*
+
 
 <br />
 
