@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Building Shared Understanding of Digital Preservation Needs in Lambeth Palace Library"
-date: 2025-07-31
+date: 2026-02-05
 author: Digital Preservation Southampton Team
 image: /assets/lpl.jpg
 ---
 
 
-Earlier this summer, the Digital Preservation Southampton team was awarded [Higher Education Innovation Funding (HEIF)](https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/) to support a knowledge exchange partnership with [Lambeth Palace Library](https://www.lambethpalacelibrary.info/). The project aimed to build a shared understanding of the challenges and opportunities for complex public organisations like LPL in building digital preservation workflows and systems into their operations. Building on our previous work in the [Critical Cataloguing for Digital Preservation](https://critcatdigipres.github.io/) AHRC project with Joash Johnson, we organised a series of user discovery sessions aimed at bringing together key stakeholders within the LPL team to discuss their vision for a successful digital preservation system.
+Last year, the Digital Preservation Southampton team was awarded [Higher Education Innovation Funding (HEIF)](https://www.ukri.org/what-we-do/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/) to support a knowledge exchange partnership with [Lambeth Palace Library](https://www.lambethpalacelibrary.info/). The project aimed to build a shared understanding of the challenges and opportunities for complex public organisations like LPL in building digital preservation workflows and systems into their operations. Building on our previous work in the [Critical Cataloguing for Digital Preservation](https://critcatdigipres.github.io/) AHRC project with Joash Johnson, we organised a series of user discovery sessions aimed at bringing together key stakeholders within the LPL team to discuss their vision for a successful digital preservation system.
 
 The world of digital preservation systems and providers is varied. Some solutions are proprietary, while others are open-source. Some are designed with general use in mind, while others offer ready-built bespoke products that suit an organisation's requirements. Having a clear vision of a potential digital preservation system's functionalities and affordances is essential to begin an informed procurement process. During the user discovery sessions, we presented LPL staff with a series of guiding questions that helped us paint a clearer picture of their needs. These discussions delved into _why_ a digital preservation system was needed in the first place, and the organisational bottlenecks that it was projected to detangle. These conversations pointed towards the crucial work that must be carried out even before procuring a system, such as an in-depth study and prioritisation of current archival holdings.
 
